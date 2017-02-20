@@ -7,8 +7,8 @@
 */
 
 fill(0);
-rect(20, 20, 20, 20);  //black rectangle
+rect(20, 20, 20, 20);  //rettangolo nero
 fill(100);
 rotate(radians(45));
 translate(20, 20); 
-rect(0, 0, 20, 20);  //grey rectangle
+rect(0, 0, 20, 20);  //rettangolo grigio

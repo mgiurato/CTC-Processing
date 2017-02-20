@@ -8,7 +8,7 @@
 
 fill(0);
 translate(40, 20); //50, 50
-rect(0, 0, 20, 20);  //black rectangle
+rect(0, 0, 20, 20);  //rettangolo nero
 fill(100);
 translate(40, 20); //50, 50
-rect(0, 0, 20, 20);  //grey rectangle
+rect(0, 0, 20, 20);  //rettangolo grigio

@@ -1,7 +1,7 @@
 /*
 * _01_Red_Snake
 * 
-* Come programmare un oggetto mosso tramite il mouse e che lascia la traccia sullo schermo.
+* Come programmare un oggetto mosso tramite il mouse e che lascia una traccia sullo schermo.
 *       
 * (c) 2013-2016 Arduino LLC.
 */

@@ -10,7 +10,7 @@ PImage im[] = new PImage[4];        // Rendiamo il vettore più grande, in modo 
 String imFile[] = {"one.jpg", "two.jpg", "three.jpg", "four.jpg"}; 
 
 void setup() {
-  size(800, 800);                   // Rendiamo la schermata più grande per ospitare quattro immagini
+  size(800, 800);                   // Rendiamo la schermata più grande in modo da ospitare quattro immagini
   for (int i = 0; i < 4; i = i + 1) {
     im[i] = loadImage(imFile[i]);   // Carichiamo l'immagine corrispondente all'indice 'i'
   }
